@@ -1,0 +1,51 @@
+body {
+  font-family: DangerMode, Calibir, Arial;
+  background-image: linear-gradient(#ebe834, #ffb300);
+}
+h1{
+  text-align: center;
+  font-family: DangerMode, Calibir, Arial;
+}
+
+
+
+}
+h1{
+  text-align: center;
+  font-family: Candara, Calibri, Arial;
+  background: #000353
+}
+#content {
+margin: auto;
+  width: 500px;
+  text-align: justify;
+
+}
+.segment {
+  padding: 5px;
+  border: 3px solid #000000
+  p{
+    margin-top: 0px;
+}
+
+/* only selects following selects of segment class
+*/
+.segment .leftimg {nax-width: 200px;
+  float: left;
+ margin: 0px 5px ;
+
+}
+.centerimg {
+  float: none;
+}
+.paragraph1{
+border: 2px solid #000000;
+ background-color: #330033;
+ color: #CC9999;
+ border-radius: 2px;
+ margin: 5px;
+ padding: 10px;
+ font-weight: bold;
+ transition-property: background-color;
+ transition-duration: 0.5s;
+}
